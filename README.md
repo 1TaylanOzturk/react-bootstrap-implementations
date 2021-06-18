@@ -6,8 +6,7 @@ $ npm install
 $ npm start
 ```
 # CodeSandbox
-https://codesandbox.io/s/9vbc1
-You may also experience this project from here.
+You may also experience this project from [here](https://codesandbox.io/s/9vbc1).
 
 # Technologies
 * react: 17.0.2
