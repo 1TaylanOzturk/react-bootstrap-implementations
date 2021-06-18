@@ -1,0 +1,12 @@
+.jumbotron-container * {
+  color: black !important;
+}
+
+.jumbotron {
+  background-color: coral;
+}
+
+.jumbotron-btn {
+  color: white !important;
+  font-weight: bolder;
+}

@@ -1,0 +1,41 @@
+.todo-task {
+  position: relative;
+  margin-bottom: 8px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+  height: auto;
+  background-color: rgb(39, 165, 39);
+  font-size: 20px;
+}
+
+.todo-task::before {
+  content: "• ";
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 3px;
+}
+
+.complated-icon {
+  position: absolute;
+  right: 0;
+  height: inherit;
+  width: 30px;
+  cursor: pointer;
+}
+
+.todo-input {
+  display: inline-block;
+  width: 360px;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+.todo-submit-btn {
+  display: inline-block;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  height: 38px;
+  margin-bottom: 2px;
+}
