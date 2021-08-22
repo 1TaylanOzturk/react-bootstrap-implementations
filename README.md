@@ -1,9 +1,9 @@
 ## Installation
 ```bash
-$ git clone https://github.com/1TaylanOzturk/basic-react-implementations.git
-$ cd "react-bootstrap-implementations"/
-$ npm install
-$ npm start
+$git clone https://github.com/1TaylanOzturk/basic-react-implementations.git
+$cd "react-bootstrap-implementations"/
+$npm install
+$npm start
 ```
 
 ## Credits
